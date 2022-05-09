@@ -8,7 +8,6 @@
 
 ## Contact me:
 
-[![Email]()](https://xxxx)
+[![Email](https://cdn-icons-png.flaticon.com/512/95/95645.png)](https://xxxx)
 
-[![Email]()](https://xxxxx)
 
