@@ -8,7 +8,7 @@
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/Español-devexperto.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://xxxx)
+[![Email]()](https://xxxx)
 
-[![Email](https://img.shields.io/badge/English-antonioleiva.com-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://xxxxx)
+[![Email]()](https://xxxxx)
 
