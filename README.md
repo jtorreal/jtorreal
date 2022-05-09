@@ -10,6 +10,6 @@ I'm passionate about the world of software development and programming and speci
 
 ## Contact me:
 
-[![Gmail Badge](https://img.shields.io/badge/torresimbas@gmail.com-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:torresimbas@gmail.com)](mailto:torresimbas@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/j_torres_almela@hotmail.com-0275FF?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:j_torres_almela@hotmail.com)](mailto:j_torres_almela@hotmail.com)
 
 
