@@ -3,7 +3,7 @@
 
 ## Skills:
 
-![Android](https://img.shields.io/badge/-android-E34A86?style=plastic&logo=android)
+![Android](https://img.shields.io/badge/-android-3279CE?style=plastic&logo=android)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=plastic&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
