@@ -1,5 +1,6 @@
 # 👋 Hi there, my name is Jose Antonio Torres Almela
-### I'm a Kotlin Developer, passionate about programming and specifically the android world
+### I'm a Kotlin Developer, 
+passionate about programming and specifically the android world
 
 ## Skills:
 
