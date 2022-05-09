@@ -11,5 +11,6 @@ I'm passionate about the world of software development and programming and speci
 ## Contact me:
 
 Email: torresimbas@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:torresimbas@gmail.com)](mailto:torresimbas@gmail.com)
 
 
