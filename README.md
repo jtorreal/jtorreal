@@ -12,7 +12,7 @@ I'm passionate about the world of software development and programming and speci
 
 ## Contact me:
 
-[![Gmail Badge](https://img.shields.io/badge/j_torres_almela@hotmail.com-3279CE?style=plastic&logo=Mail.Ru&logoColor=white&link=mailto:j_torres_almela@hotmail.com)](mailto:j_torres_almela@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:j_torres_almela@hotmail.com)](mailto:j_torres_almela@hotmail.com)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-torres-almela-705b0b44/)
 
