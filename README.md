@@ -1,5 +1,5 @@
 # 👋 Hi there, my name is Jose Antonio Torres Almela
-![GitHub followers](https://img.shields.io/github/followers/josele?style=flat&link=http://www.marca.com)
+![GitHub followers](https://img.shields.io/github/followers/josele?style=flat&link=https://www.marca.com)
 ### I'm a Kotlin Developer, 
 I'm passionate about the world of software development and programming and specifically the android world.
 
