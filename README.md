@@ -3,6 +3,8 @@
 ### I'm a Kotlin Developer, 
 I'm passionate about the world of software development and programming and specifically the android world.
 
+I have worked for companies and institutions both in Spain and outside Spain ✈️, in different sectors, among others: educational, financial, telecommunications, banking.
+
 ## Skills:
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
