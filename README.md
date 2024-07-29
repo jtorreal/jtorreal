@@ -5,8 +5,8 @@ I'm passionate about the world of software development and programming and speci
 
 ## Skills:
 
-![Android](https://img.shields.io/badge/-android-3279CE?style=plastic&logo=android)
-![Kotlin](https://img.shields.io/badge/-kotlin-7F8489?style=plastic&logo=kotlin)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=plastic&logo=java)
 
 ## Contact me:
