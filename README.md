@@ -21,7 +21,7 @@ I have worked for companies and institutions both in Spain and outside Spain ✈
 
 ## Contact me:
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:j_torres_almela@hotmail.com)](mailto:j_torres_almela@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j_torres_almela@hotmail.com)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-torres-almela-705b0b44/)
 
