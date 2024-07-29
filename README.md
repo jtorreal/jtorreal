@@ -3,7 +3,7 @@
 ### I'm a Kotlin Developer, 
 I'm passionate about the world of software development and programming and specifically the android world.
 
-I have worked for companies and institutions both in Spain and outside Spain ✈️, in different sectors, among others: educational, financial, telecommunications, banking.
+I have worked and work for companies and institutions both in Spain and outside Spain ✈️, in different sectors, among others: educational, financial, telecommunications, banking.
 
 ## Skills:
 
