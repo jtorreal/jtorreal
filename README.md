@@ -1,5 +1,5 @@
 # 👋 Hi there, my name is Jose Antonio Torres Almela
-![LinkedIn](https://img.shields.io/badge/linkedin-jose-antonio-torres-almela-705b0b44.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white
 ### I'm a Kotlin Developer, 
 I'm passionate about the world of software development and programming and specifically the android world.
 
