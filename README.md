@@ -1,5 +1,5 @@
 # 👋 Hi there, my name is Jose Antonio Torres Almela
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/12299287/cryptocode)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-torres-almela-705b0b44/)
 ### I'm a Kotlin Developer, 
 I'm passionate about the world of software development and programming and specifically the android world.
 
