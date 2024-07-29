@@ -10,7 +10,7 @@ I have worked for companies and institutions both in Spain and outside Spain ✈
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
-![Java](https://img.shields.io/badge/-java-E34A86?style=plastic&logo=java)
+![Java](https://img.shields.io/badge/-java-E34A86?style=plastic&logo=java](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=red)
 
 ## Others Skills:
 
